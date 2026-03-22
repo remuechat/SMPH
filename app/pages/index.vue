@@ -13,8 +13,8 @@
         </UButton>
         
         <UButton>
-            <NuxtLink to="/gradebook">
-                Gradebook
+            <NuxtLink to="/teacher/classes">
+                Classes
             </NuxtLink>
         </UButton>
         
