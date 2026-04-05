@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import RollCallModel from '~/components/common/RollCallModel.vue';
 import { useTeacherDashboard } from '~/compostables/useTeacherDashboard';
-import TeacherLayout from '~/layout/TeacherLayout.vue';
+// import TeacherLayout from '~/layout/TeacherLayout.vue';
 </script>
 
 <template>

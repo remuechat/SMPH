@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import ClassCard from '~/components/common/ClassCard.vue';
 import { useTeacherDashboard } from '~/compostables/useTeacherDashboard';
-import TeacherLayout from '~/layout/TeacherLayout.vue';
+// import TeacherLayout from '~/layout/TeacherLayout.vue';
 </script>
 
 <template>
